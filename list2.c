@@ -43,6 +43,5 @@ int main(){
 	del_node(head);
 	if(head->next == NULL)
 		printf("%d", 0);
-	printf("Danik privet");
 	return 0;
 	}
