@@ -43,5 +43,6 @@ int main(){
 	del_node(head);
 	if(head->next == NULL)
 		printf("%d", 0);
+	Danik salam;
 	return 0;
 	}
